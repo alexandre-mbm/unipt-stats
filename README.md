@@ -41,11 +41,11 @@ $ cd csv
 $ bash download.sh
 ```
 
-Mais informações informações podem ser encontradas no [`csv/README.md`](csv/README.md).
+Mais informações podem ser encontradas no [`csv/README.md`](csv/README.md).
 
 ## Usar
 
-Se você está em `csv/`, do passo anterior, voltar ao diretório raiz `unipt-stats`:
+Se você está no diretório `csv/` do passo anterior, volte ao diretório raiz `unipt-stats`:
 ```bash
 $ cd ../
 ```
@@ -70,7 +70,7 @@ br ∪ pt = 9718 usuários mapearam algo no Brasil ou em Portugal
 br ∩ pt =  246 usuários mapearam algo no Brasil e em Portugal
 ```
 
-Próximas versões deverão possuir ajuda `--help` e parametrização.
+Próximas versões deverão receber parâmetros e trazer ajuda `--help`.
 
 5 de Abril de 2014 00:25
 
@@ -78,4 +78,4 @@ Próximas versões deverão possuir ajuda `--help` e parametrização.
 
 Se você é um usuário OSM lusófono, participe das [discussões que motivam o desenvolvimento do unipt-stats](http://wiki.openstreetmap.org/wiki/Category_talk:User_pt).
 
-Se você tem __requisitos ou questões propriamente para o software__, prefira criar ou comentar *issues* neste repositório a gerar novas discussões no wiki, no fórum ou nas listas de e-mails do projeto OpenStreetMap.
+Se você tem __requisitos ou questões propriamente para o software__, prefira criar ou comentar *issues* neste repositório invés de gerar novas discussões no wiki, no fórum ou nas listas de e-mails do projeto OpenStreetMap.
